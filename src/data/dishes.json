@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Kadhai Paneer 1",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png"
+  },
+  {
+    "id": 2,
+    "name": "Kadhai Paneer 2",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png"
+  },
+  {
+    "id": 3,
+    "name": "Kadhai Paneer 3",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png"
+  },
+  {
+    "id": 4,
+    "name": "Kadhai Paneer 4",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png"
+  },
+  {
+    "id": 5,
+    "name": "Kadhai Paneer 5",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png"
+  }
+]
